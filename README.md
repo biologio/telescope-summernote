@@ -19,9 +19,9 @@ meteor add biolog:telescope-summernote
         "HTMLBodySize": 100000
       }
     }
-     ```
+    
   2. Run meteor with settings file e.g  meteor --settings settings.json
- 
+  ```
   
 
 

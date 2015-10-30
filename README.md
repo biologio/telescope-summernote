@@ -13,7 +13,7 @@ meteor add biolog:telescope-summernote
 ## Quick Start
 	1. Define HTMLBodySize in your settings.json file. its set the max character size of post if not provided default to 200000 characters 
 
-    ```bash
+
     {
       "public": {
         "HTMLBodySize": 100000
@@ -21,7 +21,7 @@ meteor add biolog:telescope-summernote
     }
     
   2. Run meteor with settings file e.g  meteor --settings settings.json
-  ```
+
   
 
 

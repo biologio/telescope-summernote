@@ -1,6 +1,6 @@
-# Telescope [Summernote][1] WYSIWYG editor plugin  with embedded images support Plugin
+# Telescope Summernote WYSIWYG editor plugin  with embedded images support Plugin
 
-A simple plugin that replace Telescope markdown with WYSIWYG editor 
+A simple plugin that replace Telescope markdown with  [Summernote][1] WYSIWYG editor 
 
 ## Install
 
@@ -19,14 +19,10 @@ meteor add biolog:telescope-summernote
         "HTMLBodySize": 100000
       }
     }
-   
+     ```
   2. Run meteor with settings file e.g  meteor --settings settings.json
-   ```
+ 
   
-  
-
-
-
 
 
 ## Future

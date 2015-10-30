@@ -1,10 +1,10 @@
 Package.describe({
     name: 'biolog:telescope-summernote',
-    version: '0.0.1',
+    version: '0.0.5',
     // Brief, one-line summary of the package.
-    summary: '',
+    summary: 'Summernote WYSIWYG editor with embedded images support for Telescope app',
     // URL to the Git repository containing the source code for this package.
-    git: '',
+    git: 'https://github.com/biologio/telescope-summernote.git',
     // By default, Meteor will default to using README.md for documentation.
     // To avoid submitting documentation, set this field to null.
     documentation: 'README.md'

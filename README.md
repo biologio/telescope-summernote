@@ -20,7 +20,7 @@ meteor add biolog:telescope-summernote
       }
     }
     
-  2. Run meteor with settings file e.g  meteor --settings settings.json
+  	2. Run meteor with settings file e.g  meteor --settings settings.json
 
   
 

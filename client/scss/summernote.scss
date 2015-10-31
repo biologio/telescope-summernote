@@ -32,29 +32,30 @@ a {
         float: none
     }
 }
-.note-editable  {
-resize: vertical;
-ul,ol{
-    margin-left:1rem;
-    padding: 0 2rem;
-}
-ul{
 
-    list-style: inherit !important;
-    list-style-type: disc;
+.note-editable {
+    resize: vertical;
+    ul,
+    ol {
+        margin-left: 1rem;
+        padding: 0 2rem;
     }
-    ol{
-    list-style: inherit !important;
-    list-style-type: decimal !important;
+    ul {
+        list-style: inherit !important;
+        list-style-type: disc;
     }
-    img.img-thumbnail{
-    &:after{
-    display:block;
-    content: 'Red me';
-    padding:2rem;
-    background:red;
-    clear:both;
+    ol {
+        list-style: inherit !important;
+        list-style-type: decimal !important;
     }
+    img.img-thumbnail {
+        &:after {
+            display: block;
+            content: 'Red me';
+            padding: 2rem;
+            background: red;
+            clear: both;
+        }
     }
 }
 
@@ -83,16 +84,24 @@ ul{
 .btn.btn-default.btn-sm.note-recent-color {
     float: left;
 }
-.has-shadow, .single-post .posts .post, .post-body, .page-body {
-    box-shadow: none;
-}
-.grid-block, .comment-content, .comment-new {
 
+.has-shadow,
+.single-post .posts .post,
+.post-body,
+.page-body {
     box-shadow: none;
 }
-.logo-text{
-    a:hover, a:focus {
-    color: #23527c;
-    text-decoration: none;
+
+.grid-block,
+.comment-content,
+.comment-new {
+    box-shadow: none;
 }
+
+.logo-text {
+    a:hover,
+    a:focus {
+        color: #23527c;
+        text-decoration: none;
+    }
 }

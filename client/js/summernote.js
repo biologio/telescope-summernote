@@ -7,7 +7,7 @@ Template.post_submit.rendered = function() {
             minHeight: 250
 
         });
-    }, 500)
+    }, 1000)
 
 }
 Template.post_edit.rendered = function() {
@@ -20,7 +20,7 @@ Template.post_edit.rendered = function() {
             minHeight: 250
 
         });
-    }, 500)
+    }, 1000)
 
 
 };

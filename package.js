@@ -1,6 +1,6 @@
 Package.describe({
     name: 'biolog:telescope-summernote',
-    version: '0.1.2-3',
+    version: '0.1.1-4',
     // Brief, one-line summary of the package.
     summary: 'Summernote WYSIWYG editor with embedded images support for Telescope app',
     // URL to the Git repository containing the source code for this package.

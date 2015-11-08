@@ -105,3 +105,16 @@ a {
         text-decoration: none;
     }
 }
+.editUserForm{
+    .form-group label {
+    float: left;
+}
+.note-editable a{
+    float: none !important;
+    display: initial !important;
+    }
+    .menu-list .menu-item-label-description, .menu-dropdown .menu-item-label-description, .menu-collapsible .menu-item-label-description {
+    display: none;
+    font-weight: normal;
+    opacity: 0.6;
+}
